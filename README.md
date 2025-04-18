@@ -24,7 +24,7 @@
 
 Combines streams from other addons into one and provides much greater customisation:
 
-- Change the format of the resutls
+- Change the format of the results
 - Filter all results by resolution, quality, visual tags, audio tags, encodes.
 - Remove duplicate results, and prioritise specific services for a given file.
 - Sort all results by quality, resolution, size, cached, visual tags, audio tags, encodes, seeders, service, language
